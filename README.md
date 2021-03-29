@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/chalwk77" target="blank"><img src="https://img.shields.io/twitter/follow/chalwk77?logo=twitter&style=for-the-badge" alt="chalwk77" /></a> </p>
 
-- 🔭 I’m currently working on [Game Scripts for the SAPP Dedicated Server for Halo PC/CE](https://github.com/Chalwk77/HALO-SCRIPT-PROJECTS)
+- 🔭 I’m currently working on [Game Scripts for the Halo PC/CE SAPP Dedicated Server App](https://github.com/Chalwk77/HALO-SCRIPT-PROJECTS)
 
-- 🌱 I’m currently learning **Discordia API and Luvit 2.0 framework**
+- 🌱 I’m currently learning [Discordia API](https://github.com/SinisterRectus/Discordia) and [Luvit 2.0](https://luvit.io/) frameworks
 
 - 👯 I’m looking to collaborate on [HALO-SCRIP-PROJECTS](https://github.com/Chalwk77/HALO-SCRIPT-PROJECTS/projects)
 
@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **Halo: PC/CE, Android Game Development**
 
-- 📫 How to reach me **jericho.crosby227@gmail.com or jericraft.enjin.com**
+- 📫 How to reach me **jericho.crosby227@gmail.com*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
