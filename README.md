@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jericho (Chalwk)</h1>
-<h3 align="center">Hi there. I'm Chalwk, a passionate independent game developer and open source enthusiast from New Zealand. I primarily develop 2D games, but you'll find me doing all sorts of coding projects, from software engineering through research and development to creative coding.</h3>
+
+Hi there. I'm Chalwk, a passionate independent game developer and open source enthusiast from New Zealand.
+I primarily develop 2D games, but you'll find me doing all sorts of coding projects, from software engineering through research and development to creative coding.
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chalwk77&label=Profile%20views&color=0e75b6&style=flat" alt="chalwk77" /> </p>
