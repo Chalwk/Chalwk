@@ -9,9 +9,9 @@
 * **Primary Programming Languages**: Lua, Java
 * **Secondary Languages**: JavaScript, C++, PHP
 * **Web & Data**: HTML, CSS, JSON, XML, YAML, CSV; SQL, MySQL, SQLite
-* **Game Development & Tools**: Unity, Unreal Engine, Solar2D, [JDA (Java Discord API)](https://github.com/DV8FromTheWorld/JDA)
+* **Game Development & Tools**: Unity, Unreal Engine, Solar2D, JDA (Java Discord API)
 * **Automation & AI/ML**: Automated testing, AI/ML integration, scripting for game mods
-* **Other Tools**: Git, Linux, Bash, IntelliJ IDEA
+* **Other Tools**: Git, Linux, Bash, IntelliJ IDEA, VS Code, Atom, Android Studio, Sublime, Notepad++
 
 **Current Projects**
 
