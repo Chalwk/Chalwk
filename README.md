@@ -1,12 +1,11 @@
 **Jericho (Chalwk)**
 * 🧩 **Autistic Developer** ║ **Gamer** ║ **Creator** ║ **Advocate**
-* 🎮 Passionate about **Game Development** (*Minecraft*, *Halo*, *Roblox*, *Garry's Mod*), & **Discord Bots**
+* 🎮 Passionate about **Game Development** (*Minecraft*, *Halo*, *Roblox*, *Garry's Mod*), & **Discord Bots**, **Web Apps**, **Mobile Apps**
 * 🏆 Author of **[HALO-SCRIPT-PROJECTS](https://github.com/Chalwk/HALO-SCRIPT-PROJECTS)**, the largest archive of Halo: PC/CE Lua scripts
-* ⚙️ Proficient In & Experienced With:
-   - Lua, Java, C++, JavaScript, PHP
-   - HTML, CSS
-   - JSON, XML, YAML, CSV
-   - SQL
+* ⚙️ Skills & Experience:
+  - **Programming**: Lua, Java, C++, JavaScript, PHP
+  - **Web**: HTML, CSS, JSON, XML, YAML, CSV
+  - **Databases**: SQL, MySQL, SQLite
 
 ---
 
