@@ -1,18 +1,24 @@
 **Jericho (Chalwk)**
-*   🧩 **Autistic Developer** ║ **Gamer** ║ **Creator** ║ **Advocate**
-*   🎮 Passionate about **Game Development** (*Minecraft*, *Halo*, *Roblox*, *Garry's Mod*), & **Discord Bots**
-*   🏆 Author of **[HALO-SCRIPT-PROJECTS](https://github.com/Chalwk/HALO-SCRIPT-PROJECTS)**, the largest archive of Halo: PC/CE Lua scripts
-*   ⚙️ Proficient in: **Lua**, **Java**, **JSON**, **XML**, **YAML**, **CSV**, and experienced in **C++**, **PHP**, **HTML**, **CSS**, **SQL**
-*   🧠 **Systems thinker** who loves complex problems and accessible design
+* 🧩 **Autistic Developer** ║ **Gamer** ║ **Creator** ║ **Advocate**
+* 🎮 Passionate about **Game Development** (*Minecraft*, *Halo*, *Roblox*, *Garry's Mod*), & **Discord Bots**
+* 🏆 Author of **[HALO-SCRIPT-PROJECTS](https://github.com/Chalwk/HALO-SCRIPT-PROJECTS)**, the largest archive of Halo: PC/CE Lua scripts
+* ⚙️ Proficient In & Experienced With:
+   - Lua, Java, C++, JavaScript, PHP
+   - HTML, CSS
+   - JSON, XML, YAML, CSV
+   - SQL
 
 ---
 
 **Currently:**
-*   🔭 Maintaining and expanding the [HALO SCRIPT PROJECTS](https://github.com/Chalwk/HALO-SCRIPT-PROJECTS)
-*   🌱 Learning [JDA (Java Discord API)](https://jda.wiki/introduction/jda/) and [Luvit](https://luvit.io/)
+* 🔭 Maintaining and expanding the [HALO SCRIPT PROJECTS](https://github.com/Chalwk/HALO-SCRIPT-PROJECTS)
+* 🌱 Learning:
+  - [JDA (Java Discord API)](https://jda.wiki/introduction/jda/)
+  - [Luvit](https://luvit.io/)
+  - [Solar2D](https://solar2d.com/)
 
 **Connect:**
-*   💬 Discord: **Chalwk**
+* 💬 **Discord:** Chalwk / [HSP Discord](https://discord.gg/D76H7RVPC9)
 
 ---
 
