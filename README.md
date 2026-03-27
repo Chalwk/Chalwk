@@ -2,4 +2,4 @@
 
 🧩 Autistic Developer · Gamer · Advocate
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-chalwk.github.io-2d2d2d?style=for-the-badge&logo=github&logoColor=white)](https://chalwk.github.io)
+[![📍 Visit my portfolio: chalwk.github.io](https://img.shields.io/badge/Portfolio-chalwk.github.io-1e88e5?style=for-the-badge&logo=github&logoColor=white)](https://chalwk.github.io)
