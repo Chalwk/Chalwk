@@ -2,10 +2,6 @@
 
 # </> Jericho (Chalwk)
 
-🧩 Autistic Developer · Gamer · Advocate
-
-<img src="avatar.png" alt="Chalwk" width="250">
-
 <br>
 
 <a href="mailto:chalwk.dev@gmail.com">
